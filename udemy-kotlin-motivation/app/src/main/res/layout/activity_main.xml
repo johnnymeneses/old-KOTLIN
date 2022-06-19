@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.MainActivity">
+
+
+    <View
+        android:id="@+id/view_Superior"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/new_azul"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <ImageView
+        android:id="@+id/imageAll"
+        android:src="@drawable/ic_all"
+        android:visibility="visible"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:tint="@color/gray"
+        app:layout_constraintBottom_toBottomOf="@id/view_Superior"
+        app:layout_constraintLeft_toLeftOf="@id/view_Superior"
+        app:layout_constraintRight_toLeftOf="@id/imageEmoji"
+        app:layout_constraintTop_toTopOf="@id/view_Superior"
+         />
+
+    <ImageView
+        android:id="@+id/imageEmoji"
+        android:src="@drawable/ic_emoji"
+        android:visibility="visible"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:tint="@color/gray"
+        app:layout_constraintBottom_toBottomOf="@id/view_Superior"
+        app:layout_constraintLeft_toRightOf="@id/imageAll"
+        app:layout_constraintRight_toRightOf="@id/imageSun"
+        app:layout_constraintTop_toTopOf="@id/view_Superior"
+        />
+
+    <ImageView
+        android:id="@+id/imageSun"
+        android:src="@drawable/ic_sun"
+        android:visibility="visible"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:tint="@color/gray"
+        app:layout_constraintBottom_toBottomOf="@id/view_Superior"
+        app:layout_constraintLeft_toRightOf="@id/imageEmoji"
+        app:layout_constraintRight_toRightOf="@id/view_Superior"
+        app:layout_constraintTop_toTopOf="@id/view_Superior"
+        />
+
+
+
+<TextView
+    android:id="@+id/text_saudacao"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Olá, Kotlin"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintRight_toRightOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/view_Superior"
+    android:textSize="18sp"
+    android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/text_mensagem"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_saudacao"
+        app:layout_constraintBottom_toTopOf="@id/btn_novaFrase"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:text="Riscos devem ser corridos, porque o maior perigo é não arriscar nada!"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/new_azul"
+        android:elevation="5dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_mensagem"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="80dp"
+        />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_novaFrase"
+        android:layout_width="115dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:background="@color/new_azul"
+        android:fontFamily="@font/cabin"
+        android:text="Nova Frase"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
