@@ -1,0 +1,2 @@
+johnny/com/monetario/BuildConfig.java
+ johnny.com.monetario.BuildConfig
