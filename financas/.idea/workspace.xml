@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1234d12-5658-4d02-adc5-4f8c9c7c39e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JPIX/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/androidTest/java/com/johnny/jpix/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/java/com/johnny/jpix/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/java/com/johnny/jpix/telaLogin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/container_components.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/container_edit_text.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/container_user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/ic_bank.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/layout/activity_tela_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/app/src/test/java/com/johnny/jpix/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JPIX/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2299vhYJJwWpdhVrtcoD70luJ13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Monetario" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1234d12-5658-4d02-adc5-4f8c9c7c39e6" name="Default Changelist" comment="" />
+      <created>1639239168357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639239168357</updated>
+    </task>
+    <servers />
+  </component>
+</project>
