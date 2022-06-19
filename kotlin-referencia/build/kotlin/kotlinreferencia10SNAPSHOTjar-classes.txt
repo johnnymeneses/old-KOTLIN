@@ -1,0 +1,1 @@
+/home/johnny/Documents/DEV/GIT/kotlin-oo/kotlin-referencia/build/classes/kotlin/main/VariaveisKt.class
