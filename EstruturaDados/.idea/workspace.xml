@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="513f9648-046f-4215-86d9-73c41048f322" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/../ByteBank/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteBank/src/br/com/johnny/bytebank/modelo/contaCorrente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteBank/src/br/com/johnny/bytebank/modelo/contaCorrente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaLogica/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex99.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex99.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursoUdemy/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursoUdemy/src/conceitosIniciais/variaveis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../cursoUdemy/src/conceitosIniciais/variaveis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-referencia/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin-referencia/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-referencia/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numerosAmigos/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numerosAmigos/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numerosAmigos/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21dXzUGgo8EEuhscXwNZyEjDxxt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kotlin-referencia" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="513f9648-046f-4215-86d9-73c41048f322" name="Changes" comment="" />
+      <created>1638272201376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638272201376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
