@@ -1,0 +1,2 @@
+com/johnny/udemy2/BuildConfig.java
+ com.johnny.udemy2.BuildConfig
