@@ -1,0 +1,35 @@
+
+TESTES UNITÁRIOS
+
+Introdução e Benefícios
+
+:: CLASSE           :: CLASSE DE TESTE
+    Método          <<< Método de teste
+    Método          <<< Método de teste
+    Método          <<< Método de teste
+
+
+
+:: Testes que garantem o funcionamento do código
+    >Teste unitário não faz parte da aplicação final
+    >Testam pequenas unidades do código, geralmente funções
+
+:: Processo automatizado de testes
+    >O teste escrito pode ser executado diversas vezes garantindo que a função faz o que se propõe
+    >Execução de diversos testes ao mesmo tempo (suíte de testes)
+    >Reduz a verificação manual (debugger, println)
+    >Melhor design de funções (hora de descobrir se uma função está fazendo mais de uma coisa)
+
+
+Dicas e Boas Práticas
+
+::Manter teste unitários simples
+
+::Corrigir problemas a medida que aparecem
+
+::Comece simples
+    >Teste unitários devem primeiro garantir que uma função é coberta com qualidade para então garantir que o programa esteja coberto
+::Nomenclatura
+
+::Testes cenários alternativos
+

@@ -1,0 +1,11 @@
+package android
+//Dentro do OnCreate
+
+Para esconder a barra superior, dentro do OnCreate:
+supportActionBar!!.hide()
+
+
+A cor referente ao Head do App fica no arquivo colors, a cor de Status Superior
+<color name="purple_700">#00416A</color>
+
+

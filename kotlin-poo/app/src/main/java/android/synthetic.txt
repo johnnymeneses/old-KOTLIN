@@ -1,0 +1,13 @@
+package solutions
+
+
+//Build.gradle app
+plugins{
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions' // <<<<
+}
+
+import kotlinx.android.synthetic.main.activity_tela_login.*
+
+//https://developer.android.com/topic/libraries/view-binding/migration

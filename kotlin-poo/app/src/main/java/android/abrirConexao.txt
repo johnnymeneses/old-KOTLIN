@@ -1,0 +1,34 @@
+package solutions
+
+import android.view.View
+import org.json.JSONObject
+import java.net.URL
+import javax.net.ssl.HttpsURLConnection
+
+Como abrir uma conexão
+
+
+Thread() {
+    val url = URL("https://free.currcon62b34363554556087b")
+    val con = url.openConnection() as HttpsURLConnection
+
+    val currency=""
+
+    try {
+        val data = con.inputStream.bufferedReader().readText()
+        val obj = JSONObject(data)
+        runOnUiThread(){
+            val res = obj.getDouble("${currency}_BRL")
+            result.text = " R$ ${dec.format(value.toDouble() * res)}"
+            result.visibility = View.VISIBLE
+        }
+    } catch (t: InternalError) {
+        println("Erro: $t")
+    } finally {
+        con.disconnect()}
+}.start()
+
+}
+
+No arquivo AndroidManifest, acima de <application
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>

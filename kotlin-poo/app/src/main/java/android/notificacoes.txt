@@ -1,0 +1,20 @@
+package solutions
+
+import android.widget.Toast
+
+
+Toast Notification
+ Toast.makeText(this, "Preencha todos os campos", Toast.LENGTH_LONG).show()
+
+
+
+//String no arquivo XML
+Toast.makeText(this, getString(R.string.notificationCampos), Toast.LENGTH_LONG).show()
+
+
+Snakebar
+
+val snack = Snackbar.make(it,"Email / Senha inválidos",Snackbar.LENGTH_LONG)
+snack.setBackgroundTint(Color.WHITE)
+snack.setTextColor(Color.BLACK)
+snack.show()

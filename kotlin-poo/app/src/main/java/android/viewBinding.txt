@@ -1,0 +1,58 @@
+package solutions
+
+Adicionar no [graddle.app]
+
+buildFeatures {
+        viewBinding true
+    }
+
+
+private lateinit var binding: ActivityLoginBinding [Nome da Activity no binding]
+
+override fun onCreate(savedInstanceState: Bundle?) {
+    super.onCreate(savedInstanceState)
+    setContentView(R.layout.activity_login)
+
+    //Intanciar
+    binding = ActivityLoginBinding.inflate(layoutInflater)
+
+    //Sendo usada
+    setContentView(binding.root)
+
+    //Botão via ViewBingind
+    binding.buttonEntrar.setOnClickListener(this)
+
+}
+
+
+:: Usando ViewBinding com OnStart()
+
+override fun onStart() {
+        super.onStart()
+        binding.buttonEntrar.setOnClickListener { salvaNome() }
+        binding.txtCadastro.setOnClickListener { cadastroUsuario() }
+
+    }
+
+
+Usando ViewBinding com OnCLick()
+class MainActivity : AppCompatActivity(), View.OnClickListener {
+
+override fun onCreate(savedInstanceState: Bundle?) {
+            super.onCreate(savedInstanceState)
+            setContentView(R.layout.activity_main)
+
+	        ActivityMainBinding.inflate(layoutInflater)
+            setContentView(binding.root)
+
+            //Eventos
+            binding.btnNovaFrase.setOnClickListener(this)
+
+        }
+
+override fun onClick(view: View) {
+
+        if (view.id == R.id.btn_novaFrase) {
+            Toast.makeText(this, "Cliquei", Toast.LENGTH_SHORT).show()
+            handleNewPhrase()}
+}
