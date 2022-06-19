@@ -151,7 +151,24 @@ fun colecao1(args: Array<String>) {
 //3 - Extension Functions
 
 
+fun array(){
+    val values = IntArray(5)
+
+    values[0] = 11
+    values[1] = 12
+    values[2] = 13
+    values[3] = 14
+    values[4] = 15
+
+    for( valor in values){
+        println(valor)
+    }
+
+}
+
+
 fun main(){
     println("Collections no Bootcamp")
+    array()
 }
 
