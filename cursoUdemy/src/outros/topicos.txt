@@ -1,0 +1,83 @@
+fun main(){
+
+    variaveis()             // Topico sobre variáveis
+    controleFLuxo()         //Estrutura de Repetição
+    estruturaCondicional()  //Estrutura Condicional
+    funcoes()               //Estrutura de Funções
+
+
+    //Orientação a objetos
+    testaClasse()
+    testaHeranca()
+
+    //Kotlin
+    testaAny()
+
+
+
+
+//            Estruturas Condicionais
+//            Estruturas de Repetição
+
+//    Estrutura de Dados
+
+//    Orientação à Objeto
+
+//    Classes
+//    Métodos
+//    Encapsulamento
+//    Modificadores de Acesso
+
+//    Properties: Get e Set
+
+//    Construtores
+
+//    Construtor Personalizado
+
+//            Herança
+//    Sobrescrever comportamentos Herdados
+//    Reutilizar membros da classe mae
+
+//    Polimorfismo
+
+//    Abstrações
+//    referências abstratas
+//            membros e classes abstratas
+
+//            Interfaces
+//    O que é
+//    Como utilizar
+
+//            Composição
+//    diferenças e quando usar herança ou composição.
+
+//    o que são e como utilizar object expressions e declarations;
+
+
+//    Classe Any
+//            Cast
+//    Smart Cast
+
+//            Equals
+//    Hashcode
+//    ToString
+
+
+//    Execptions
+//    Como fazer
+//            Como lançar
+//            Mensagens personalizadas
+
+//            NullSafety
+//    coleções
+//    arrays
+//    listas
+
+
+
+}
+
+
+
+
+

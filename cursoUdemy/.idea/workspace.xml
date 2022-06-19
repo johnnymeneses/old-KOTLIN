@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f890a643-dae2-407c-ab87-cbf9d83ae7e3" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/../ByteBank/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteBank/src/br/com/johnny/bytebank/modelo/contaCorrente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteBank/src/br/com/johnny/bytebank/modelo/contaCorrente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDados/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDados/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDados/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaLogica/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex99.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ListaLogica/src/logica/Ex99.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conceitosIniciais/variaveis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceitosIniciais/variaveis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-referencia/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin-referencia/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-referencia/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numerosAmigos/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numerosAmigos/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numerosAmigos/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/secao29/infix.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/secao29/Log.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/secao15/secao15.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/secao28/field.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/secao28/nested.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/secao28/sealed.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/secao15/colecoes.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="21LRc4WUSeclb6xaKz7HN75M2Tj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\johnn\Documents\DEV\GIT\kotlin-oo\cursoUdemy\src\secao29" />
+      <recent name="C:\Users\johnn\Documents\DEV\GIT\kotlin-oo\cursoUdemy\src\secao28" />
+      <recent name="C:\Users\johnn\Documents\DEV\GIT\kotlin-oo\cursoUdemy\src\secao15" />
+      <recent name="C:\Users\johnn\Documents\DEV\GIT\kotlin-oo\cursoUdemy\src\Notion" />
+      <recent name="C:\Users\johnn\Documents\DEV\GIT\kotlin-oo\cursoUdemy\src\secao14" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="secao11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FuncoesKt">
+    <configuration name="FuncoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao6.FuncoesKt" />
+      <module name="cursoUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao29.InfixKt" />
+      <module name="cursoUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao29.LogKt" />
+      <module name="cursoUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao28.NestedKt" />
+      <module name="cursoUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SealedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secao28.SealedKt" />
+      <module name="cursoUdemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FuncoesKt" />
+        <item itemvalue="Kotlin.InfixKt" />
+        <item itemvalue="Kotlin.LogKt" />
+        <item itemvalue="Kotlin.SealedKt" />
+        <item itemvalue="Kotlin.NestedKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f890a643-dae2-407c-ab87-cbf9d83ae7e3" name="Changes" comment="" />
+      <created>1637718458697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637718458697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="str?.length" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
