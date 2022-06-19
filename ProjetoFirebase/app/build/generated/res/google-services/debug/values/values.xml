@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">163509518661-47tbt72tkq1daauo11a92jpi0ke5h5m4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">163509518661</string>
+    <string name="google_api_key" translatable="false">AIzaSyCy0shRTO-Ew3F0-l_Ac_vvEAwQKpcls0A</string>
+    <string name="google_app_id" translatable="false">1:163509518661:android:58a9fba1f48b5383893e2c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCy0shRTO-Ew3F0-l_Ac_vvEAwQKpcls0A</string>
+    <string name="google_storage_bucket" translatable="false">projeto-firebase-be952.appspot.com</string>
+    <string name="project_id" translatable="false">projeto-firebase-be952</string>
+</resources>
