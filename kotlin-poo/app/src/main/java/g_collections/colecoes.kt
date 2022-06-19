@@ -164,19 +164,19 @@ fun A_IntArray (){
         println(valor)
     }
 
-    println("")
+    println("-------------------------------------")
 
     //Recurso lambda do Kotlin
     values.forEach {
         println(it)
     }
-    println("")
+    println("-------------------------------------")
 
 //Recurso lambda do Kotlin
     values.forEach {valor ->
         println(valor)
     }
-    println("")
+    println("-------------------------------------")
     for (index in values.indices){
         println(values[index])
     }
