@@ -1,0 +1,2 @@
+johnny/com/geracpf/BuildConfig.java
+ johnny.com.geracpf.BuildConfig
