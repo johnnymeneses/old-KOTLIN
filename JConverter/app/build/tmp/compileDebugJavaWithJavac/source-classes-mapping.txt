@@ -1,0 +1,2 @@
+com/johnny/jconverter/BuildConfig.java
+ com.johnny.jconverter.BuildConfig
