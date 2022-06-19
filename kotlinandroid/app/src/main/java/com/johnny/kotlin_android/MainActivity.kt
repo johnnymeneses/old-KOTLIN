@@ -16,21 +16,11 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btnHello.text = "Ola"
-
-
 
         supportActionBar!!.hide()
 
 
-
-
         //ViewBinding
-
-
-
-
-
 
 
     }
