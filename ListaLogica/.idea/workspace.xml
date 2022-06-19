@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6afb53dd-b36e-4c56-b0f7-dcc045db22d5" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/../ByteBank/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteBank/src/br/com/johnny/bytebank/modelo/contaCorrente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteBank/src/br/com/johnny/bytebank/modelo/contaCorrente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDados/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EstruturaDados/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstruturaDados/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/Ex03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Ex03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/Ex99.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Ex99.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursoUdemy/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursoUdemy/src/conceitosIniciais/variaveis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../cursoUdemy/src/conceitosIniciais/variaveis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-referencia/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin-referencia/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin-referencia/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numerosAmigos/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numerosAmigos/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numerosAmigos/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21D4kqb04ypMTQnYunj3sGQ7qpN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../numerosAmigos" />
+  </component>
+  <component name="RunManager" selected="Kotlin.Ex41Kt">
+    <configuration name="Ex14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logica.Ex14Kt" />
+      <module name="List" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex20Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logica.Ex20Kt" />
+      <module name="List" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex41Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.Ex41Kt" />
+      <module name="List" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExTreinaEntrevistaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logica.logica.ExTreinaEntrevistaKt" />
+      <module name="List" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewYearKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logica.logica.NewYearKt" />
+      <module name="List" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ex41Kt" />
+        <item itemvalue="Kotlin.ExTreinaEntrevistaKt" />
+        <item itemvalue="Kotlin.NewYearKt" />
+        <item itemvalue="Kotlin.Ex20Kt" />
+        <item itemvalue="Kotlin.Ex14Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6afb53dd-b36e-4c56-b0f7-dcc045db22d5" name="Changes" comment="" />
+      <created>1637462471110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637462471110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
