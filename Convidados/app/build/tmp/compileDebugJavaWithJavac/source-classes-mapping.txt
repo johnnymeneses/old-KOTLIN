@@ -1,0 +1,18 @@
+com/johnny/convidados/BuildConfig.java
+ com.johnny.convidados.BuildConfig
+com/johnny/convidados/databinding/FragmentHomeBinding.java
+ com.johnny.convidados.databinding.FragmentHomeBinding
+com/johnny/convidados/databinding/NavHeaderMainBinding.java
+ com.johnny.convidados.databinding.NavHeaderMainBinding
+com/johnny/convidados/databinding/ContentMainBinding.java
+ com.johnny.convidados.databinding.ContentMainBinding
+com/johnny/convidados/databinding/FragmentSlideshowBinding.java
+ com.johnny.convidados.databinding.FragmentSlideshowBinding
+com/johnny/convidados/databinding/AppBarMainBinding.java
+ com.johnny.convidados.databinding.AppBarMainBinding
+com/johnny/convidados/databinding/FragmentGalleryBinding.java
+ com.johnny.convidados.databinding.FragmentGalleryBinding
+com/johnny/convidados/databinding/ActivityMainBinding.java
+ com.johnny.convidados.databinding.ActivityMainBinding
+com/johnny/convidados/databinding/ActivityFormCadastroBinding.java
+ com.johnny.convidados.databinding.ActivityFormCadastroBinding
