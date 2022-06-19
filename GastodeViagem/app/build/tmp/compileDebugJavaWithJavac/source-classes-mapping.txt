@@ -1,0 +1,2 @@
+com/johnny/gastodeviagem/BuildConfig.java
+ com.johnny.gastodeviagem.BuildConfig
