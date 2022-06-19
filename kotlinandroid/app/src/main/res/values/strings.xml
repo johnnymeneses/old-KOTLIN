@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Partidas Futebol</string>
+    <string name="txtBotaoSimulate">Botao de Simulação de partidas</string>
 </resources>
