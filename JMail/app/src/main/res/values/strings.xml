@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JMail</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="criarconta"> Novo usuário? Criar conta</string>
+    <string name="cadastro">Cadastre-se</string>
+
+
+</resources>
