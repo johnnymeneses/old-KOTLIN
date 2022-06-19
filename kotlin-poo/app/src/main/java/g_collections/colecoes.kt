@@ -151,7 +151,7 @@ fun colecao1(args: Array<String>) {
 //3 - Extension Functions
 
 
-fun array(){
+fun A_IntArray (){
     val values = IntArray(5)
 
     values[0] = 11
@@ -164,11 +164,28 @@ fun array(){
         println(valor)
     }
 
+    println("")
+
+    //Recurso lambda do Kotlin
+    values.forEach {
+        println(it)
+    }
+    println("")
+
+//Recurso lambda do Kotlin
+    values.forEach {valor ->
+        println(valor)
+    }
+    println("")
+    for (index in values.indices){
+        println(values[index])
+    }
+
 }
 
 
 fun main(){
     println("Collections no Bootcamp")
-    array()
+    A_IntArray()
 }
 
