@@ -3,4 +3,5 @@
     <string name="txtBotaoSimulate">Botao de Simulação de partidas</string>
     <string name="cd_txtTeamA">Imagem Time A</string>
     <string name="cd_txtTeamB">Imagem Time B</string>
+    <string name="txtVersus">X</string>
 </resources>
