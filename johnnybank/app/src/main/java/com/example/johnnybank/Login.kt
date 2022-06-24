@@ -29,28 +29,38 @@ class Login : AppCompatActivity(), View.OnClickListener {
     override fun onClick(view: View) {
 
 
-        if(view.id ==R.id.btn_login){
-
-            autenticacao()
+        if (view.id == R.id.btn_login) {
+            validaCampos()
         }
 
     }
 
 
-  fun autenticacao(){
+    //Valida entrada Simples
+    fun autenticacao() {
 
-      val username = binding.editMail.text.toString()
-      val password = binding.editPassword.text.toString()
+        val username = binding.editMail.text.toString()
+        val password = binding.editPassword.text.toString()
 
-      if(validaEntrada(username,password)){
-          Toast.makeText(this,"Bem Vindo", Toast.LENGTH_SHORT).show()
-      }else{
-          Toast.makeText(this,"Senha incorreta", Toast.LENGTH_SHORT).show()
-      }
-  }
+        if (validaEntrada(username, password)) {
+            Toast.makeText(this, "Bem Vindo", Toast.LENGTH_SHORT).show()
+        } else {
+            Toast.makeText(this, "Senha incorreta", Toast.LENGTH_SHORT).show()
+        }
+    }
 
+    //valida entrada campos
+    fun validaCampos() {
 
+        val username = binding.editMail.text.toString()
+        val password = binding.editPassword.text.toString()
 
+        if (validaCampo(username, password)) {
+            autenticacao()
+        } else {
+            Toast.makeText(this, "Preencha todos os Campos", Toast.LENGTH_SHORT).show()
+        }
+    }
 
 
 }
