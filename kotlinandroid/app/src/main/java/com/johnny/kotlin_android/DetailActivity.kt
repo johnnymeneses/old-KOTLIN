@@ -17,6 +17,11 @@ class DetailActivity : AppCompatActivity() {
         setContentView(binding.root)
         supportActionBar!!.hide()
 
+        setSupportActionBar(binding.toolbar) //Define a toolbar personalizada
+
+        supportActionBar?.setDisplayHomeAsUpEnabled(true) // Incluir na tela de detalhes os botões de voltar. Característicias da Home.
+
+
 
     }
 }

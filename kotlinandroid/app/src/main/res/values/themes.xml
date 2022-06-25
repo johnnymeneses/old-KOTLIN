@@ -14,6 +14,13 @@
         <!-- Customize your theme here. -->
     </style>
 
+
+
+    <style name="Theme.Simulation.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+
+    </style>
+
     <style name="TextAppearance.App.CollapsingToolbar.Expanded" parent="TextAppearance.MaterialComponents.Headline5">
         <item name="android:textColor">?attr/colorOnPrimary</item>
     </style>

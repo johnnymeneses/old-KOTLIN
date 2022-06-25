@@ -11,6 +11,7 @@
         android:theme="@style/Theme.Kotlinandroid">
         <activity
             android:name=".DetailActivity"
+            android:theme="@style/Theme.Simulation.NoActionBar"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
