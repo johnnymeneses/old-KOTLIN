@@ -1,4 +1,4 @@
-package com.johnny.kotlin_android
+package com.johnny.kotlin_android.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

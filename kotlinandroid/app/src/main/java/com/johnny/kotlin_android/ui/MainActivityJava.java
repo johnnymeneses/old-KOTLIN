@@ -1,4 +1,4 @@
-package com.johnny.kotlin_android;
+package com.johnny.kotlin_android.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,7 +18,26 @@ public class MainActivityJava extends AppCompatActivity {
         setContentView(binding.getRoot());
 
 
+        setupMatchesList();
+        setupMatchesRefresh();
+        setupFloatingActionButton();
 
 
     }
+
+    private void setupMatchesList() {
+        //TODO Listar as partidas, consumindo nossa API
+    }
+
+    private void setupMatchesRefresh() {
+        //TODO: Atualizar as partidas na ação de swipe
+    }
+
+    private void setupFloatingActionButton() {
+        //TODO: Criar evento de click e simulação de partidas
+    }
+
+
+
+
 }
