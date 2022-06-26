@@ -11,6 +11,9 @@
         android:theme="@style/Theme.Kotlinandroid">
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityJava"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,14 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-
         <activity
             android:name=".DetailActivity"
-            android:theme="@style/Theme.Simulation.NoActionBar"
-            android:exported="true" />
-
-
+            android:exported="true"
+            android:theme="@style/Theme.Simulation.NoActionBar" />
     </application>
 
 </manifest>
