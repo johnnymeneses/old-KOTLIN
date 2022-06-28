@@ -1,8 +1,13 @@
 package com.johnny.kotlin_android.domain;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Place {
 
+    @SerializedName("nome")
     private String name;
+
+    @SerializedName ("imagem")
     private String image;
 
 
