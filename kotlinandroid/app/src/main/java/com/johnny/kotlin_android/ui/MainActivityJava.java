@@ -39,8 +39,12 @@ public class MainActivityJava extends AppCompatActivity {
         setupMatchesRefresh();
         setupFloatingActionButton();
 
+        System.out.println("windows");
+
 
     }
+
+
 
     private void setupHttpClient() {
         Retrofit retrofit = new Retrofit.Builder()
