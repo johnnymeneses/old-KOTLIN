@@ -39,7 +39,6 @@ public class MainActivityJava extends AppCompatActivity {
         setupMatchesRefresh();
         setupFloatingActionButton();
 
-        System.out.println("windows");
 
 
     }
@@ -55,11 +54,33 @@ public class MainActivityJava extends AppCompatActivity {
         matchesApi = retrofit.create(MatchesAPI.class);
     }
 
+
     private void setupMatchesList() {
 
        binding.rvMatches.setHasFixedSize(true);
        binding.rvMatches.setLayoutManager(new LinearLayoutManager(this));
-       matchesApi.getMatches().enqueue(new Callback<List<Match>>() {
+        findMatchesFromApi();
+    }
+
+
+
+
+    private void setupMatchesRefresh() {
+        binding.srlMatches.setOnRefreshListener(this::findMatchesFromApi);
+    }
+
+    private void setupFloatingActionButton() {
+        
+    }
+
+    private void showErrorMessage() {
+        Snackbar.make(binding.fabSimulation, "erro",Snackbar.LENGTH_LONG).show();
+    }
+
+
+    private void findMatchesFromApi() {
+        binding.srlMatches.setRefreshing(true);
+        matchesApi.getMatches().enqueue(new Callback<List<Match>>() {
             @Override
             public void onResponse(Call<List<Match>> call, Response<List<Match>> response) {
                 if (response.isSuccessful()) {
@@ -72,27 +93,15 @@ public class MainActivityJava extends AppCompatActivity {
                     showErrorMessage();
 
                 }
+                binding.srlMatches.setRefreshing(false);
             }
 
             @Override
             public void onFailure(Call<List<Match>> call, Throwable t) {
                 showErrorMessage();
+                binding.srlMatches.setRefreshing(false);
             }
         });
     }
-
-
-    private void setupMatchesRefresh() {
-        //TODO: Atualizar as partidas na ação de swipe
-    }
-
-    private void setupFloatingActionButton() {
-        //TODO: Criar evento de click e simulação de partidas
-    }
-
-    private void showErrorMessage() {
-        Snackbar.make(binding.fabSimulation, "erro",Snackbar.LENGTH_LONG).show();
-    }
-
 
 }
