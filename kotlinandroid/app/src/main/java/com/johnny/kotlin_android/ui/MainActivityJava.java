@@ -16,6 +16,7 @@ import com.johnny.kotlin_android.domain.Match;
 import com.johnny.kotlin_android.ui.adapter.MatchesAdapter;
 
 import java.util.List;
+import java.util.Random;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -27,7 +28,7 @@ public class MainActivityJava extends AppCompatActivity {
 
     private ActivityMainJavaBinding binding;
     private MatchesAPI matchesApi;
-    private RecyclerView.Adapter matchesAdapter;
+    private MatchesAdapter matchesAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,8 +44,8 @@ public class MainActivityJava extends AppCompatActivity {
 
 
 
-    }
 
+    }
 
 
     private void setupHttpClient() {
@@ -59,12 +60,10 @@ public class MainActivityJava extends AppCompatActivity {
 
     private void setupMatchesList() {
 
-       binding.rvMatches.setHasFixedSize(true);
-       binding.rvMatches.setLayoutManager(new LinearLayoutManager(this));
+        binding.rvMatches.setHasFixedSize(true);
+        binding.rvMatches.setLayoutManager(new LinearLayoutManager(this));
         findMatchesFromApi();
     }
-
-
 
 
     private void setupMatchesRefresh() {
@@ -76,15 +75,25 @@ public class MainActivityJava extends AppCompatActivity {
             view.animate().rotationBy(360).setDuration(500).setListener(new AnimatorListenerAdapter() {
                 @Override
                 public void onAnimationEnd(Animator animation) {
-                    //TODO Implementar o algoritmo  de simulação de partidas
+
+                    Random random = new Random();
+
+                    for (int i=0; i < matchesAdapter.getItemCount(); i++){
+                        Match match = matchesAdapter.getMatches().get(i);
+                        match.getHomeTeam().setScore(random.nextInt(Integer.valueOf(match.getHomeTeam().getStars())));
+                        match.getAwayTeam().setScore(random.nextInt(Integer.valueOf(match.getAwayTeam().getStars())));
+
+                        matchesAdapter.notifyItemChanged(i);
+
+
+                    }
                 }
             });
-
         });
     }
 
     private void showErrorMessage() {
-        Snackbar.make(binding.fabSimulation, "erro",Snackbar.LENGTH_LONG).show();
+        Snackbar.make(binding.fabSimulation, "erro", Snackbar.LENGTH_LONG).show();
     }
 
 

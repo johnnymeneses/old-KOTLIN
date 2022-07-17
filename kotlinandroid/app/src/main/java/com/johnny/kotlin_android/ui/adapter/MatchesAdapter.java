@@ -16,6 +16,10 @@ import java.util.List;
 
 public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHolder> {
 
+    public List<Match> getMatches() {
+        return matches;
+    }
+
     private List<Match> matches;
 
     public MatchesAdapter(List<Match> matches) {
@@ -42,11 +46,19 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHold
 
             //Glide
             Glide.with(context).load(match.getHomeTeam().getImage()).circleCrop().into((holder.binding.imageViewTemA));
-            Glide.with(context).load(match.getAwayTeam().getImage()).circleCrop().into((holder.binding.imageViewTeamB));
-
             holder.binding.tvNameTeamA.setText(match.getHomeTeam().getName());
+
+            if(match.getHomeTeam().getScore() !=null){
+            holder.binding.tvTeamA.setText(String.valueOf(match.getHomeTeam().getScore()));
+            }
+
+
+            Glide.with(context).load(match.getAwayTeam().getImage()).circleCrop().into((holder.binding.imageViewTeamB));
             holder.binding.tvNameTeamB.setText(match.getAwayTeam().getName());
 
+            if(match.getAwayTeam().getScore() !=null){
+                holder.binding.tvTeamB.setText(String.valueOf(match.getAwayTeam().getScore()));
+            }
 
     }
 
