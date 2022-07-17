@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.animation.Animator;
+import android.animation.AnimatorListenerAdapter;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -70,7 +72,15 @@ public class MainActivityJava extends AppCompatActivity {
     }
 
     private void setupFloatingActionButton() {
-        
+        binding.fabSimulation.setOnClickListener(view -> {
+            view.animate().rotationBy(360).setDuration(500).setListener(new AnimatorListenerAdapter() {
+                @Override
+                public void onAnimationEnd(Animator animation) {
+                    //TODO Implementar o algoritmo  de simulação de partidas
+                }
+            });
+
+        });
     }
 
     private void showErrorMessage() {
