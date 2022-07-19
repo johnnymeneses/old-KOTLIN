@@ -80,8 +80,8 @@ public class MainActivityJava extends AppCompatActivity {
 
                     for (int i=0; i < matchesAdapter.getItemCount(); i++){
                         Match match = matchesAdapter.getMatches().get(i);
-                        match.getHomeTeam().setScore(random.nextInt(Integer.valueOf(match.getHomeTeam().getStars())));
-                        match.getAwayTeam().setScore(random.nextInt(Integer.valueOf(match.getAwayTeam().getStars())));
+                        match.getHomeTeam().setScore(random.nextInt(Integer.parseInt(match.getHomeTeam().getStars())+1));
+                        match.getAwayTeam().setScore(random.nextInt(Integer.parseInt(match.getAwayTeam().getStars())+1));
 
                         matchesAdapter.notifyItemChanged(i);
 
