@@ -45,7 +45,8 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHold
 
 
             //Glide
-            Glide.with(context).load(match.getHomeTeam().getImage()).circleCrop().into((holder.binding.imageViewTemA));
+//            Glide.with(context).load(match.getHomeTeam().getImage()).circleCrop().into((holder.binding.imageViewTemA)); versao redonda circleCrop()
+           Glide.with(context).load(match.getHomeTeam().getImage()).into((holder.binding.imageViewTemA));
             holder.binding.tvNameTeamA.setText(match.getHomeTeam().getName());
 
             if(match.getHomeTeam().getScore() !=null){
@@ -53,7 +54,7 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHold
             }
 
 
-            Glide.with(context).load(match.getAwayTeam().getImage()).circleCrop().into((holder.binding.imageViewTeamB));
+            Glide.with(context).load(match.getAwayTeam().getImage()).into((holder.binding.imageViewTeamB));
             holder.binding.tvNameTeamB.setText(match.getAwayTeam().getName());
 
             if(match.getAwayTeam().getScore() !=null){
