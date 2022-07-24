@@ -7,6 +7,10 @@ import com.johnny.kotlin_android.databinding.ActivityMainBinding
 
 class DetailActivity : AppCompatActivity() {
 
+    object Extras {
+        const val MATCH = "EXTRA_MATCH"
+    }
+
     private lateinit var binding: ActivityDetailBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,10 +19,9 @@ class DetailActivity : AppCompatActivity() {
 
         binding = ActivityDetailBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        supportActionBar!!.hide()
 
+//        supportActionBar!!.hide()
         setSupportActionBar(binding.toolbar) //Define a toolbar personalizada
-
         supportActionBar?.setDisplayHomeAsUpEnabled(true) // Incluir na tela de detalhes os botões de voltar. Característicias da Home.
 
 
