@@ -42,7 +42,7 @@ public class MainActivityJava extends AppCompatActivity {
         setupMatchesRefresh();
         setupFloatingActionButton();
 
-
+        getSupportActionBar().hide();
 
 
     }

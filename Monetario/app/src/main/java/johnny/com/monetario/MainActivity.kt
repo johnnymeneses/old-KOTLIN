@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
 
 
         //Verifica Status do Serviço e Cotação atual
-
         statusServico()
 
 

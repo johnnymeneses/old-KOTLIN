@@ -1,78 +1,78 @@
 [
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\drawable_container_user.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\drawable\\container_user.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/drawable_ic_baseline_currency_exchange_24.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/drawable/ic_baseline_currency_exchange_24.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/drawable_container_user.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/drawable/container_user.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_converter.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\layout\\activity_converter.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/layout_activity_converter.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/layout/activity_converter.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_teste_spinner.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\layout\\activity_teste_spinner.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/layout_activity_teste_spinner.xml.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/layout/activity_teste_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_currency_exchange_24.xml.flat",
-        "source": "C:\\Users\\johnn\\Documents\\DEV\\GIT\\android\\Monetario\\app\\src\\main\\res\\drawable\\ic_baseline_currency_exchange_24.xml"
+        "merged": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/Monetario/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     }
 ]
