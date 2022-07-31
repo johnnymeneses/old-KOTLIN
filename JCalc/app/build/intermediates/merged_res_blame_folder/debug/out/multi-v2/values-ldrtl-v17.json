@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\johnn\\wwDocuments\\DEV\\Mobile-Android\\GIT_Local\\android\\JCalc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "outputFile": "/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/JCalc/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\johnn\\.gradle\\caches\\transforms-3\\bc079e06875069af67a4d4ab889390cd\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "/Users/johnnymeneses/.gradle/caches/transforms-3/bc079e06875069af67a4d4ab889390cd/transformed/material-1.4.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

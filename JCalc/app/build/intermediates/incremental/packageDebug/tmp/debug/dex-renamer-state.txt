@@ -1,9 +1,9 @@
-#Wed Jun 08 21:33:40 BRT 2022
-base.2=C\:\\Users\\johnn\\wwDocuments\\DEV\\Mobile-Android\\GIT_Local\\android\\JCalc\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+#Sun Jul 31 10:05:40 BRT 2022
+base.2=/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/JCalc/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
 path.2=4/classes.dex
-base.1=C\:\\Users\\johnn\\wwDocuments\\DEV\\Mobile-Android\\GIT_Local\\android\\JCalc\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/JCalc/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 path.1=0/classes.dex
-base.0=C\:\\Users\\johnn\\wwDocuments\\DEV\\Mobile-Android\\GIT_Local\\android\\JCalc\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=/Users/johnnymeneses/Documents/DEV/GIT/KOTLIN/JCalc/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
